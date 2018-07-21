@@ -1,0 +1,5 @@
+number1 = int(input("Enter a number "))
+number2 = int(input("Enter next number "))
+print(number1 + number2)
+print("*" * 20)
+print("sum of %d and %d is %d" % (number1,number2,number1+number2))
